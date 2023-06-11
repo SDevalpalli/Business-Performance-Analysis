@@ -192,7 +192,7 @@ Below are the links for the dashboards:
 
 ###* Funnel Dashboard
 
-![Funnel Dashboard]( (https://github.com/SDevalpalli/Business-Performance-Analysis/commit/9356b6e87c37ede3e85e8329d33faf74e259a1b7)
+![Funnel Dashboard](https://github.com/SDevalpalli/Business-Performance-Analysis/commit/9356b6e87c37ede3e85e8329d33faf74e259a1b7)
 
 ###* Marketing Dashboard
 
