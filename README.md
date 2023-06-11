@@ -186,4 +186,17 @@ In the final step, all the tables were exported to Microsoft Power BI and three 
 
 Below are the links for the dashboards:
 
+###* Customer Dashboard
+
+![Customer Dashboard](https://github.com/SDevalpalli/Business-Performance-Analysis/commit/48315f75187871bad46a76416702c16250b79d4f)
+
+###* Funnel Dashboard
+
+![Funnel Dashboard]( (https://github.com/SDevalpalli/Business-Performance-Analysis/commit/9356b6e87c37ede3e85e8329d33faf74e259a1b7)
+
+###* Marketing Dashboard
+
+![Marketing Dashboard]( https://github.com/SDevalpalli/Business-Performance-Analysis/commit/8177a9c8a64357dc7002ec621baca6c6f35fa830)
+
+
 
